@@ -1,3 +1,9 @@
 ﻿github账号            svn账号 姓名 JAVA经验
 hailor1985@gmail.com  liuhailuo 刘海螺  10年
-liuxiawang	      liuxiawang 刘霞旺	1年以下
+liuxiawang	      liuxiawang 刘霞旺	半年
+abc  abc abc  2年s
+zhangyiheng	      zhangyiheng 张艺亨 0年
+1318587418@qq.com     fengwanjun 冯婉君 0
+lmcboy      mclin     林免冲  2年
+
+
