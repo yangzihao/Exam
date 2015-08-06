@@ -26,6 +26,7 @@ hailor1985@gmail.com  liuhailuo 刘海螺  10年
 =======
 ﻿github账号            svn账号 姓名 JAVA经验
 hailor1985@gmail.com  liuhailuo 刘海螺  10年
+<<<<<<< HEAD
 1318587418@qq.com     fengwanjun 冯婉君 0
 lmcboy      mclin     林免冲  2年
 hailor1985@gmail.com  liuhailuo 刘海螺  10年
@@ -60,6 +61,11 @@ zhangyiheng	      zhangyiheng 张艺亨 0年
 1318587418@qq.com     fengwanjun 冯婉君 0
 lmcboy      mclin     林免冲  2年
 330861322@qq.com	xukadii	许凯迪  1年
+=======
+330861322@qq.com	xukadii	许凯迪  1年
+714994230@qq.com      linyuheng 林宇恒  2年半
+425116704@qq.com      xiaoyunlong 肖云龙 2年
+>>>>>>> liaoshengmin
 zhangyiheng	      zhangyiheng 张艺亨 0年
 1318587418@qq.com     fengwanjun 冯婉君 0
 lmcboy      mclin     林免冲  2年
@@ -128,6 +134,7 @@ hubert-zheng          zhengxiaobin 郑晓彬 2年
 liaoshengmin          liaoshengmin  廖声民  1年
 =======
 liaoshengmin          liaoshengmin  廖声民  1年
+<<<<<<< HEAD
 hubert-zheng          zhengxiaobin 郑晓彬 2年
 hubert-zheng          zhengxiaobin 郑晓彬 2年
 506250345@qq.com      liuwenyao 刘文耀   0年
@@ -388,5 +395,11 @@ lijinghui              lijinghui   李景辉  2年
 >>>>>>> fbd242aaa5881a63013fcccbd5beebb8115843d7
 <<<<<<< HEAD
 =======
+
+>>>>>>> liaoshengmin
+=======
+<<<<<<< HEAD
+=======
 >>>>>>> 9a40023df36c76584559e0086287964d845ebba2
 >>>>>>> 304a9034540b7bd87c8fbd45e8ed5d0413bf8399
+>>>>>>> 40e4baa43f40806f96952037869b8b3445f37045
