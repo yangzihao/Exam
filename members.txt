@@ -69,7 +69,7 @@ hubert-zheng          zhengxiaobin 郑晓彬 2年
 hubert-zheng          zhengxiaobin 郑晓彬 2年
 506250345@qq.com      liuwenyao 刘文耀   0年
 LGSGitHub             linxiaodong   林晓东   2年
-<<<<<<< HEAD
+
 15999931101           linlipeng   林立鹏  2年
 =======
 524256239@qq.com      linjaijun   林家俊    3年
@@ -83,12 +83,3 @@ chenchad              chenwenfeng  陈文峰  0年
 chenchad              chenwenfeng  陈文峰  0年  
 chenchad              chenwenfeng  陈文峰  0年
 lijinghui              lijinghui   李景辉  2年
-<<<<<<< HEAD
-
-<<<<<<< HEAD
->>>>>>> 595f12f0eda2fd0aed0e314911753163365e9988
-=======
-
->>>>>>> 42d34a287d903d3e56ca725f94b12cacc210cc67
-=======
->>>>>>> 909beeac3647009cc46e448946818261b51267c9
