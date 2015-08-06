@@ -1,7 +1,7 @@
-1║╒JAVA╩Ы╢║         ак╫Б
-2║╒JSP Servlert     ак╫Б
-3║╒JDBC             ак╫Б
-4║╒SSH              ╡╩ак╫Б
-5║╒JavaScript       ак╫Б
-6║╒Css              ак╫Б
-7║╒йЩ╬щ©Бё╨mysql sqlServer2008
+1Ц─│JAVAЕ÷╨Г║─         Д╨├Х╖ё
+2Ц─│JSP Servlert     Д╨├Х╖ё
+3Ц─│JDBC             Д╨├Х╖ё
+4Ц─│SSH              Д╦█Д╨├Х╖ё
+5Ц─│JavaScript       Д╦█Д╨├Х╖ё
+6Ц─│Css              Д╨├Х╖ё
+7Ц─│Ф∙╟Ф█╝Е╨⌠О╪ mysql sqlServer2008 
