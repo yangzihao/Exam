@@ -1,24 +1,22 @@
-﻿<<<<<<< HEAD
-﻿<<<<<<< HEAD
-﻿github账号            svn账号 姓名 JAVA经验
+﻿
+github账号            svn账号 姓名 JAVA经验
 hailor1985@gmail.com  liuhailuo 刘海螺  10年
-=======
+
 ﻿github账号            svn账号 姓名 JAVA经验
 hailor1985@gmail.com  liuhailuo 刘海螺  10年
 330861322@qq.com	xukaidi	许凯迪  1年
-<<<<<<< HEAD
+
 abc  abc abc  2年
-=======
+
 abc  abc abc  2年s
->>>>>>> 42d3ad2a70381981531416418b9aad50720bc86d
+
 zhangyiheng	      zhangyiheng 张艺亨 0年
 1318587418@qq.com     fengwanjun 冯婉君 0
 lmcboy      mclin     林免冲  2年
 330861322@qq.com	xukaidi	许凯迪  1年
-<<<<<<< HEAD
-=======
+
 330861322@qq.com	xukadii	许凯迪  1年
->>>>>>> 42d3ad2a70381981531416418b9aad50720bc86d
+
 zhangyiheng	      zhangyiheng 张艺亨 0年
 1318587418@qq.com     fengwanjun 冯婉君 0
 lmcboy                mclin     林免冲  2年
@@ -32,30 +30,24 @@ lmcboy      mclin     林免冲  2年
 592638625@qq,com      sunyushu  孙堉澍   2年
 289043018@qq.com	huangziliang	黄子良 1年
 191720653@qq.com      zhengzehao郑泽豪  3年
-<<<<<<< HEAD
+
 liaoshengmin          liaoshengmin  廖声民  1年
 hubert-zheng          zhengxiaobin 郑晓彬 2年
 hubert-zheng          zhengxiaobin 郑晓彬 2年
 506250345@qq.com      liuwenyao 刘文耀   0年
 893238192@qq.com	huangzijing	黄子敬	1年
-=======
+
 hubert-zheng          zhengxiaobin 郑晓彬 2年
-<<<<<<< HEAD
->>>>>>> d81e8cf9be4a5169cfbb14367637b4fc471b2aac
-=======
+
 506250345@qq.com      liuwenyao 刘文耀   0年
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 
 572091175@qq.com      yangzihao 杨子豪  1年
->>>>>>> 02f16c3fa2df5520cac743e7e266774fad132f2d
-=======
+
 LGSGitHub             linxiaodong   林晓东   2年
->>>>>>> ecbef3b71427e5387f03a375a1bbda061e327ae8
-=======
+
 LGSGitHub             linxiaodong   林晓东   2年
 GavinIsTheKing        heqiqian     何启谦    2年
-=======
+
 chenchad              chenwenfeng  陈文峰  0年  
->>>>>>> 42d3ad2a70381981531416418b9aad50720bc86d
->>>>>>> 194937d53e48db0a192cdb400c302b002e1e02c7
+lijinghui              lijinghui   李景辉  2年
