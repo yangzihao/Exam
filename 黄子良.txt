@@ -1,7 +1,7 @@
-java基础      了解
-JSP  Servlet     不会 
-JDBC       不会 
-SSH      不会 
-Javascript    不会 
-CSS         不会 
-数据库 mysql
+JAVA基础		了解
+JSP Servlert		完全不会
+JDBC			完全不会
+SSH			完全不会
+Javascript		完全不会
+Css			知道一点
+数据库：Mysql
