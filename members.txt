@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 ﻿github账号            svn账号 姓名 JAVA经验
 hailor1985@gmail.com  liuhailuo 刘海螺  10年
-hubert12138@gmail.com zhengxiaobin 郑晓彬   
-=======
-github账号            svn账号 姓名 JAVA经验
-hailor1985@gmail.com  liuhailuo 刘海螺  10年
 abc  abc abc  2年s
->>>>>>> a42bfa3d3cba9a7a418dcf815cda755c22c2fd66
+hubert12138@gmail.com zhengxiaobin 郑晓彬
