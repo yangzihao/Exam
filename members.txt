@@ -16,9 +16,7 @@ lmcboy      mclin     林免冲  2年
 
 >>>>>>> 9bcaf4a9c92938c517572c24ec1c2211d370f635
 >>>>>>> 8ed5e54ba7879335eac2e9dd1a156086ca4c11cb
-=======
-=======
-330861322@qq.com	xukadii	许凯迪  1年
+
 >>>>>>> 02f16c3fa2df5520cac743e7e266774fad132f2d
 zhangyiheng	      zhangyiheng 张艺亨 0年
 1318587418@qq.com     fengwanjun 冯婉君 0
@@ -38,10 +36,7 @@ liaoshengmin          liaoshengmin  廖声民  1年
 <<<<<<< HEAD
 hubert-zheng          zhengxiaobin 郑晓彬 2年
 
-=======
->>>>>>> 65cded9ae303739915d697fc7172bcfd203a9820
->>>>>>> 9bcaf4a9c92938c517572c24ec1c2211d370f635
->>>>>>> 8ed5e54ba7879335eac2e9dd1a156086ca4c11cb
+
 =======
 hubert-zheng          zhengxiaobin 郑晓彬 2年
 <<<<<<< HEAD
