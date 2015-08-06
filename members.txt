@@ -1,22 +1,12 @@
 ﻿github账号            svn账号 姓名 JAVA经验
 hailor1985@gmail.com  liuhailuo 刘海螺  10年
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1318587418@qq.com     fengwanjun 冯婉君 0
+1318587418@qq.com     fengwanjun 冯婉君 0
+lmcboy      mclin     林免冲  2年
+425116704@qq.com      xiaoyunlong 肖云龙 2年
+zhangyiheng	      zhangyiheng 张艺亨 0年
+1318587418@qq.com     fengwanjun 冯婉君 0
+lmcboy      mclin     林免冲  2年
 
 
 
@@ -32,11 +22,3 @@ hailor1985@gmail.com  liuhailuo 刘海螺  10年
 
 
 505695253@qq.com   ruanrongjun  阮荣均	1年
-=======
-1318587418@qq.com     fengwanjun 冯婉君 0
->>>>>>> 2387e7f54f902e330340e45e067daa7da1f8407e
-=======
-1318587418@qq.com     fengwanjun 冯婉君 0
-lmcboy      mclin     林免冲  2年
-
->>>>>>> d8a7a02372d983ff8ead86ff23472197d6311001
