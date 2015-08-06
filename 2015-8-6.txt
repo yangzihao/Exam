@@ -2,4 +2,16 @@ git branch wangruizhan
 git push origin wangruizhan:wangruizhan 
 
 
-git commit -m 
+
+
+git pull
+
+git add .
+
+git commit -m "wangruizhan"
+
+git push origin wangruizhan:wangruizhan
+
+git Status
+
+git merge wangruizhan
