@@ -1,6 +1,5 @@
 ﻿github账号            svn账号 姓名 JAVA经验
 hailor1985@gmail.com  liuhailuo 刘海螺  10年
-zhuhui91              liangzhuhui 梁柱辉 1年
 330861322@qq.com	xukadii	许凯迪  1
 330861322@qq.com	xukaidi	许凯迪  1年
 zhangyiheng	      zhangyiheng 张艺亨 0年
@@ -24,3 +23,4 @@ hubert-zheng          zhengxiaobin 郑晓彬 2年
 hubert-zheng          zhengxiaobin 郑晓彬 2年
 hubert-zheng          zhengxiaobin 郑晓彬 2年
 506250345@qq.com      liuwenyao 刘文耀   0年
+zhuhui91              liangzhuhui 梁柱辉 1年
