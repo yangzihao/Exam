@@ -11,10 +11,16 @@ hailor1985@gmail.com  liuhailuo 刘海螺  10年
 ﻿
 ﻿github账号            svn账号 姓名 JAVA经验
 <<<<<<< HEAD
+<<<<<<< HEAD
 hailor1985@gmail.com  liuhailuo 刘海螺  10年					        
 =======
 hailor1985@gmail.com  liuhailuo 刘海螺  10年
 yanghaibins 	yanghaibin	杨海彬	2年
+=======
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> lijunjian
 
 ﻿github账号            svn账号 姓名 JAVA经验
 hailor1985@gmail.com  liuhailuo 刘海螺  10年
@@ -66,6 +72,7 @@ zhangyiheng	      zhangyiheng 张艺亨 0年
 lmcboy      mclin     林免冲  2年
 abc  abc abc  2年
 lmcboy                mclin     林免冲  2年
+<<<<<<< HEAD
 =======
 >>>>>>> 40e4baa43f40806f96952037869b8b3445f37045
 524256239@qq.com      linjiajun 林家俊  3年 
@@ -80,12 +87,16 @@ lmcboy      mclin     林免冲  2年
 330861322@qq.com	xukadii	许凯迪  1年
 =======
 330861322@qq.com	xukadii	许凯迪  1年
+=======
+>>>>>>> 622c31864cac94505c8fe33a22d16a5de9c1d064
+>>>>>>> lijunjian
 714994230@qq.com      linyuheng 林宇恒  2年半
 425116704@qq.com      xiaoyunlong 肖云龙 2年
 >>>>>>> liaoshengmin
 zhangyiheng	      zhangyiheng 张艺亨 0年
 1318587418@qq.com     fengwanjun 冯婉君 0
 lmcboy      mclin     林免冲  2年
+<<<<<<< HEAD
 330861322@qq.com	xukadii	许凯迪  1年
 <<<<<<< HEAD
 =======
@@ -156,6 +167,11 @@ zhuhui91              liangzhuhui 梁柱辉 1年
 >>>>>>> fbd242aaa5881a63013fcccbd5beebb8115843d7
 hubert-zheng          zhengxiaobin 郑晓彬 2年       
 592638625@qq,com      sunyushu  孙堉澍   2年
+=======
+<<<<<<< HEAD
+junjian_li_key@163.com lijunjian 李俊键 2年
+=======
+>>>>>>> lijunjian
 289043018@qq.com	huangziliang	黄子良 1年
 191720653@qq.com      zhengzehao郑泽豪  3年
 liaoshengmin          liaoshengmin  廖声民  1年
@@ -212,6 +228,7 @@ lmcboy      mclin     林免冲  2年
 liaoshengmin          liaoshengmin  廖声民  1年
 >>>>>>> linlipeng
 hubert-zheng          zhengxiaobin 郑晓彬 2年
+<<<<<<< HEAD
 hubert-zheng          zhengxiaobin 郑晓彬 2年
 506250345@qq.com      liuwenyao 刘文耀   0年
 893238192@qq.com	huangzijing	黄子敬	1年
@@ -477,4 +494,11 @@ chenchad              chenwenfeng  陈文峰  0年
 =======
 >>>>>>> 40e4baa43f40806f96952037869b8b3445f37045
 >>>>>>> 8e1dec23f16055a17badce2e648ecd0451a237b9
+<<<<<<< HEAD
                                    陈哲
+=======
+=======
+506250345@qq.com      liuwenyao 刘文耀   0年
+
+>>>>>>> lijunjian
+>>>>>>> 5ff1251d2a299ef950b810259d54c7d5a8391d49
