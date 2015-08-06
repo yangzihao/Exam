@@ -1,7 +1,7 @@
-JAVA╩Ы╢║              ак╫Б
-JSP Servlet           ак╫Б
-JDBC                  ак╫Б
-SSH                   ╡╩ак╫Б
-Javascript            ак╫Б
-Css                   ак╫Б
-йЩ╬щ©Бё╨ Mysql sql
+JAVAЕ÷╨Г║─              Д╨├Х╖ё
+JSP Servlet           Д╨├Х╖ё
+JDBC                  Д╨├Х╖ё
+SSH                   Д╦█Д╨├Х╖ё
+Javascript            Д╦█Д╨├Х╖ё
+Css                   Д╨├Х╖ё
+Ф∙╟Ф█╝Е╨⌠О╪  Mysql sql
