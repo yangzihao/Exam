@@ -1,0 +1,2 @@
+mvn exec:java -Dexec.mainClass="com.hand.Exam2.App"
+mysql数据库端口是3306，用户名是root，密码为空
