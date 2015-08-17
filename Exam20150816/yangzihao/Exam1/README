@@ -2,3 +2,4 @@
 mvn complie
 mvn tomcat:run
 输入网址运行首页:"http://localhost:8080/Exam1/index.jsp"
+按提示进行操作即可
