@@ -1,0 +1,4 @@
+﻿数据库用户名：root，密码：空
+mvn complie
+mvn tomcat:run
+输入网址运行首页:"http://localhost:8080/Exam1/index.jsp"
