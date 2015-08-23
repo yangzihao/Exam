@@ -1,0 +1,7 @@
+﻿数据库用户名：root，密码：空
+mvn complie
+mvn tomcat:run
+输入网址运行首页:"http://localhost:8080/CSSJavaScriptExam8824/login.jsp"
+login.jsp:输入用户名和密码，成功则跳转到index.jsp;失败则弹出对话框提示失败
+index.jsp:点击新建按钮跳转到insert.jsp页面
+insert.jsp:实现customer表的插入
