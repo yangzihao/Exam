@@ -1,0 +1,4 @@
+数据库用户名：root，密码：空
+mvn complie
+mvn exec:java -Dexec.mainClass="com.hand.SpringExam8824.MainApp"
+按提示输入
