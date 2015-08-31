@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<beans xmlns="http://www.springframework.org/schema/beans"  
+    xmlns:context="http://www.springframework.org/schema/context"  
+    xmlns:aop="http://www.springframework.org/schema/aop"  
+    xmlns:tx="http://www.springframework.org/schema/tx"  
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+    xsi:schemaLocation="http://www.springframework.org/schema/beans  
+           http://www.springframework.org/schema/beans/spring-beans.xsd  
+           http://www.springframework.org/schema/context  
+           http://www.springframework.org/schema/context/spring-context.xsd  
+            http://www.springframework.org/schema/aop  
+           http://www.springframework.org/schema/aop/spring-aop.xsd  
+           http://www.springframework.org/schema/tx  
+           http://www.springframework.org/schema/tx/spring-tx.xsd"> 
+    
+<!-- Initialization for data source -->
+   <bean id="dataSource" 
+      class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+      <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
+      <property name="url" value="jdbc:mysql://localhost:3306/sakila"/>
+      <property name="username" value="root"/>
+      <property name="password" value=""/>
+   </bean>
+
+	<!-- 配置sessionfactory类 -->
+	<bean id="LocalSessionFactoryBean"
+		class="org.springframework.orm.hibernate4.LocalSessionFactoryBean">
+		<property name="dataSource" ref="dataSource" />
+		<property name="mappingResources">
+			<list>
+				<value>bean/Address.hbm.xml</value>
+				<value>bean/City.hbm.xml</value>
+				<value>bean/Country.hbm.xml</value>
+				<value>bean/Customer.hbm.xml</value>
+				<value>bean/Store.hbm.xml</value>
+			</list>
+		</property>
+
+		<property name="hibernateProperties">
+			<props>
+				<prop key="hibernate.dialect">org.hibernate.dialect.MySQL5InnoDBDialect</prop>
+				<prop key="hibernate.show_sql">true</prop>
+				<prop key="hibernate.format_sql">true</prop>
+				<prop key="hibernate.hbm2ddl.auto">update</prop>
+			</props>
+		</property>
+	</bean> 
+
+	<!-- 配置Hibernate事务 -->
+	<!-- 设定transactionManager -->    
+    <bean id="myManager"
+		class="org.springframework.orm.hibernate4.HibernateTransactionManager">
+		<property name="SessionFactory" ref="LocalSessionFactoryBean" />
+	</bean>    
+   
+
+    <bean id="CDImpl" class="manager.CDImpl">
+        <property name="SessionFactory" ref="myManager"></property>
+    </bean>
+</beans>

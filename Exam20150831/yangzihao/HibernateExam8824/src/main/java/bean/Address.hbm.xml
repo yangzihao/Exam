@@ -1,0 +1,21 @@
+<!DOCTYPE hibernate-mapping PUBLIC   
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"  
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd"> 
+     
+<hibernate-mapping package="bean">  
+    <class name="Address" table="address">  
+        <id name="address_id" column="address_id">  
+            <generator class="native">
+            </generator>  
+        </id>  
+  
+        <property name="address" type="string" column="address" />  
+        <property name="address2" type="string" column="address2" />  
+        <property name="district" type="string" column="district" />  
+        <property name="city_id" type="int" column="city_id" />  
+        <property name="postal_code" type="string" column="postal_code" />  
+        <property name="phone" type="string" column="phone" />  
+        
+    </class>  
+  
+</hibernate-mapping>  

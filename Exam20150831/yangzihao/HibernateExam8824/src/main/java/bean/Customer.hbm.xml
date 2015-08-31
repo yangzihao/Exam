@@ -1,0 +1,21 @@
+<!DOCTYPE hibernate-mapping PUBLIC   
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"  
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd"> 
+     
+<hibernate-mapping package="bean">  
+    <class name="Customer" table="customer">  
+        <id name="customer_id" column="customer_id">  
+            <generator class="native">
+            </generator>  
+        </id>  
+  
+        <property name="store_id" type="int" column="store_id" />  
+        <property name="first_name" type="string" column="first_name" />  
+        <property name="last_name" type="string" column="last_name" />  
+        <property name="email" type="string" column="city_id" />  
+        <property name="address_id" type="int" column="address_id" />  
+        <property name="create_date" type="java.util.Date" column="create_date" />  
+        
+    </class>  
+  
+</hibernate-mapping>  

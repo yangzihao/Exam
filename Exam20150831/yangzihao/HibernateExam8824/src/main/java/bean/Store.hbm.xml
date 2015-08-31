@@ -1,0 +1,17 @@
+<!DOCTYPE hibernate-mapping PUBLIC   
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"  
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd"> 
+     
+<hibernate-mapping package="bean">  
+    <class name="Store" table="Store">  
+        <id name="store_id" column="store_id">  
+            <generator class="native">
+            </generator>  
+        </id>  
+  
+        <property name="manager_staff_id" type="int" column="manager_staff_id" />  
+        <property name="address_id" type="int" column="address_id" />  
+
+    </class>  
+  
+</hibernate-mapping>  
