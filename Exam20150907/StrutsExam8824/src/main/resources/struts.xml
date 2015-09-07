@@ -1,0 +1,40 @@
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<!-- 配置根元素 -->
+<struts>
+    <!-- bean用于创建一个javabean实例 -->
+    <!-- constant用于Struts2默认行为标签 -->
+    <!-- include用于引入其他xml配置文件 -->
+    <!-- package用于区分请求 -->
+
+    <!-- 设置后台编码 -->
+    <constant name="struts.i18n.encoding" value="UTF-8"></constant>
+    <!-- 设置struts2拦截的请求后缀.do、.action，默认为action -->
+    <constant name="struts.action.extension" value="do,action"></constant>
+    <!-- 设置浏览器是否缓存静态web，默认为true -->
+    <constant name="struts.serve.static.browerCache" value="false"></constant>
+    <!-- 是否自动更新struts文件，默认为false -->
+    <constant name="struts.configuration.xml.reload" value="true"></constant>
+    <!-- 是否详细打印错误信息 -->
+<!--     <constant name="struts.devMode" value="true"></constant> -->
+    <!-- 默认视图主题 -->
+    <constant name="struts.ui.theme" value="simple"></constant>
+    
+
+    <package name="allAction" extends="struts-default">
+    <!-- 设置url对应的映射文件 -->
+<!--         <action name="*.jsp" class="com.hand.action.Login">
+            <result name="noLogin">/login.jsp</result>
+            <result name="login">/*</result>
+        </action> -->
+
+        <action name="*_*" class="com.hand.action.{1}Action" method="{2}">
+        <!-- input返回值是validate未通过时的默认返回值 -->
+            <result name="input">/error.jsp</result>
+            <result name="{2}_success">/WEB-INF/jsp/index.jsp</result>
+            <result name="{2}_fail">/{2}Fail.jsp</result>
+        </action> 
+    </package>
+</struts>

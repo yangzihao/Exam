@@ -1,0 +1,6 @@
+﻿数据库用户名：root，密码：空
+mvn complie
+mvn tomcat:run
+输入网址运行首页:"http://localhost:8080/StrutsExam8824/login.jsp"
+login.jsp:输入用户名和密码，成功则跳转到index.jsp;失败跳转到loginFail.jsp，输入框为空跳转到error.jsp页面并输出错误信息
+项目使用ssh，其他页面功能尚未完成
